@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Primary - Burgundy */
+  --color-primary-50: 255 240 242;
+  --color-primary-100: 255 227 231;
+  --color-primary-200: 252 191 201;
+  --color-primary-300: 249 151 165;
+  --color-primary-400: 233 100 129;
+  --color-primary-500: 185 44 76;
+  --color-primary-600: 153 18 51;
+  --color-primary-700: 128 0 32;
+  --color-primary-800: 102 0 26;
+  --color-primary-900: 76 0 19;
+
+  /* Secondary - Emerald */
+  --color-secondary-50: 236 253 245;
+  --color-secondary-100: 209 250 229;
+  --color-secondary-200: 167 243 208;
+  --color-secondary-300: 110 231 183;
+  --color-secondary-400: 52 211 153;
+  --color-secondary-500: 16 185 129;
+  --color-secondary-600: 5 150 105;
+  --color-secondary-700: 4 120 87;
+  --color-secondary-800: 6 95 70;
+  --color-secondary-900: 6 78 59;
+}
